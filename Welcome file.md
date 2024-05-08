@@ -8,22 +8,22 @@
 [08/05/2024] 
 ### Tarea 1: Creación del Proyecto
  - [x] Clonar el repositorio del proyecto.
- ![Captura Clone](/img/1 - yHAVGx6.png)
+ ![Captura Clone](https://github.com/JulianAntonC/GitEntornos/blob/main/imgs/1%20-%20yHAVGx6.png)
  - [x] Inicializar GitFlow en el repositorio local.
- ![Captura Git Flow](https://imgur.com/Fk5oboA)
+ ![Captura Git Flow](https://github.com/JulianAntonC/GitEntornos/blob/main/imgs/2%20-%20Fk5oboA.png)
  - [x]  Crear y cambiar a la rama `develop`. 
 ### Tarea 2: Implementación de Características 
 #### Característica 1: 
 [Nombre de la Característica] 
 - [x] Crear una nueva rama de características desde `develop`.
-![Captura git flow feature start](https://imgur.com/quEt8nB)
+![Captura git flow feature start](https://github.com/JulianAntonC/GitEntornos/blob/main/imgs/3%20-%20quEt8nB.png)
 - [x]  Implementar el código correspondiente a la característica.
-![Captura push clase](https://imgur.com/undefined)
+![Captura push clase](https://github.com/JulianAntonC/GitEntornos/blob/main/imgs/4%20-%20XPrqske.png)
 - [x]  Hacer commits regulares mientras se trabaja en la característica. 
 - [x] Realizar pruebas locales para asegurarse de que la característica funcione correctamente.
 - [x]  Fusionar la rama de características en `develop`. 
 - [x] Eliminar la rama de características. 
-![Captura feature finish](https://imgur.com/y8wty6c)
+![Captura feature finish](https://github.com/JulianAntonC/GitEntornos/blob/main/imgs/5%20-%20y8wty6c.png)
 #### Característica 2:
  [Nombre de la Característica] 
  - [ ] Crear una nueva rama de características desde `develop`.
@@ -34,7 +34,7 @@
  - [ ] Eliminar la rama de características. 
 ### Tarea 3: Integración y Pruebas 
 - [x] Integrar la rama `develop` en `master`.
-![Captura Merge](https://imgur.com/09tK3FC)
+![Captura Merge](https://github.com/JulianAntonC/GitEntornos/blob/main/imgs/6%20-%2009tK3FC.png)
 - [x] Realizar pruebas exhaustivas en la versión integrada. 
 - [x] Corregir cualquier error o problema encontrado durante las pruebas.
 - [x] Confirmar que la versión integrada está lista para ser desplegada en producción.
