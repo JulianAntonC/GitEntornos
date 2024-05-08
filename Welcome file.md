@@ -48,5 +48,5 @@
 ## Notas Adicionales o Comentarios: 
 [Notas o Comentarios adicionales] Siguiendo esta estructura, cada miembro del grupo puede trabajar de forma independiente en su propia rama de características mientras colabora con los otros miembros del grupo según sea necesario. Esto permite una distribución efectiva del trabajo y una mayor eficiencia en el desarrollo del proyecto.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjYyNzQxMF19
+eyJoaXN0b3J5IjpbLTEyNzIwNDM5NTcsMTAwNjYyNzQxMF19
 -->
