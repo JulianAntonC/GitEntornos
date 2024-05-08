@@ -18,5 +18,7 @@ public class GestionUsuarios {
         // Aquí iría la lógica real para autenticar al usuario en una base de datos o estructura de datos
         // En este ejemplo, simplemente imprimimos un mensaje indicando que se autenticó al usuario
         System.out.println("Usuario autenticado con correo: " + correo);
+
+        //asd
     }
 }
