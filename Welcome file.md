@@ -8,7 +8,9 @@
 [08/05/2024] 
 ### Tarea 1: Creación del Proyecto
  - [x] Clonar el repositorio del proyecto.
- ![Captura Clone](https://github.com/JulianAntonC/GitEntornos/blob/main/imgs/1%20-%20yHAVGx6.png)
+ ![Captura Clone]
+
+(https://github.com/JulianAntonC/GitEntornos/blob/main/imgs/1%20-%20yHAVGx6.png)
  - [x] Inicializar GitFlow en el repositorio local.
  ![Captura Git Flow](https://github.com/JulianAntonC/GitEntornos/blob/main/imgs/2%20-%20Fk5oboA.png)
  - [x]  Crear y cambiar a la rama `develop`. 
